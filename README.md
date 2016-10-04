@@ -1,5 +1,4 @@
-# EDST
-E:D Science Tools
+# E:D Science Tools
 
 EDST means to be a complete set of scientific analysis tools // Scientific Database carrier for Elite : Dangerous.
 
