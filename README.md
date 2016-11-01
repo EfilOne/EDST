@@ -2,7 +2,7 @@
 
 EDST means to be a complete set of scientific analysis tools // Scientific Database carrier for Elite : Dangerous.
 
-It is divided into to main branches :
+It is divided into two main branches :
 
 - Standalone Application
   - Live scan of the commander log / NetLog to feed databases
